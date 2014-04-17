@@ -29,6 +29,8 @@
 #include <array>
 #include <vector>
 
+//#include "disruptor/config.h"
+
 #include "disruptor/interface.h"
 #include "disruptor/claim_strategy.h"
 #include "disruptor/wait_strategy.h"
