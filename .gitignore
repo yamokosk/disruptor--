@@ -15,3 +15,11 @@ missing
 # generated binaries
 perf/perf-*
 test/*_test
+
+# generate cmake stuff
+CMakeFiles
+CMakeCache*.*
+cmake_*.*
+
+# ignore out of source build directories
+build
